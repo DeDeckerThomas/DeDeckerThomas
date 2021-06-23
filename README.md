@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Thomas
+# Hi there 👋, my name is Thomas
 I am a student Multimedia & Creative Technologies at Howest. I really love creating stuff and learn new things.
 
 Skills: Python / Java / C# / JavaScript / TypeScript / HTML / CSS
