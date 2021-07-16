@@ -1,5 +1,5 @@
 # Hi there 👋, my name is Thomas
-I am a student Multimedia & Creative Technologies at Howest. I really love creating stuff and learn new things.
+Passionate and eager to learn student that strives to find a solution on every problem. I am currently stuyding Multimedia & Creative Technologies at Howest and I have experience with Artificial Intelligence and Software Engineering.
 
 Skills: Python / Java / C# / JavaScript / TypeScript / HTML / CSS
 
