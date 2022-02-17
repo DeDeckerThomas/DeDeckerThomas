@@ -12,5 +12,5 @@ Skills: Python / Java / C# / JavaScript / TypeScript / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedeckerthomas)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dedeckerthomas&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dedeckerthomas&show_icons=true&count_private=true)  
 
